@@ -16,7 +16,7 @@ This is a solution to Section 12 from Complete JavaScript Course by Jonas Schmed
 
 ## Overview
 
-A look into each and every task I attempted to solve, with my own code. I separated each solution into a different folder for convinience.
+With the exception of the initial files (flowchart, icon, logo and style.css), I coded all lines myself by hand, following along the course whenever I got stuck, but making sure to code myself to tackle the challenge and learn.
 
 ### Links
 
@@ -26,8 +26,9 @@ A look into each and every task I attempted to solve, with my own code. I separa
 ## My process
 
 I mainly followed along the instructor's code, with the exceptions of:
+
 - Prettier config (I prefer double quotes);
-- Some variables have a different name (like formattedmov's params), and I only used arrow functions when they were one liners. 
+- Some variables have a different name (like formattedmov's params), and I only used arrow functions when they were one liners.
 
 ### Built with
 
@@ -40,7 +41,7 @@ DOM manipulations, setInterval, Intl formatting, and hands-on implementations of
 
 ### Continued development
 
-I'm eager to learn async functions and some more CSS in the future. 
+I'm eager to learn async functions and some more CSS in the future.
 
 ### Useful resources
 
