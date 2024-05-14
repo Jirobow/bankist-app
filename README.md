@@ -1,6 +1,6 @@
 # bankist-app
 
-This is a solution to Section 12 from Complete JavaScript Course by Jonas Schmedtmann (https://www.udemy.com/course/the-complete-javascript-course/).
+This is a solution to Section 12 from [Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/).
 
 ## Table of contents
 
